@@ -86,7 +86,7 @@ class ViewController: UIViewController {
         number3 = 0
         label.text = String(number1)
         ope = 0
-        label.textColor  = UIColor.red
+        label.textColor  = UIColor.black
     }
     @IBAction func selectequal(){
         if ope == 1 {
