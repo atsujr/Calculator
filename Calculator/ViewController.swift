@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     var number1: Int = 0
     var number2: Int = 0
+    
     var number3: Int = 0
     
     var ope: Int = 0
